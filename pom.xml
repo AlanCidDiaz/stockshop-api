@@ -11,8 +11,8 @@
 	<groupId>com.stockshop</groupId>
 	<artifactId>stockshop-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>stockshop-api</name>
+	<description>StockShop API</description>
 	<url/>
 	<licenses>
 		<license/>
